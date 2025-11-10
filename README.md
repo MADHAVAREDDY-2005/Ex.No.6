@@ -6,6 +6,11 @@
 To write and implement Python code that integrates with multiple AI tools 
 (such as OpenAI GPT, Hugging Face, and Google Gemini) to automate API interactions, 
 
+## AI Tools Used:
+ChatGPT-5 Go
+
+GEMINI 2.5 pro
+
 ## Project: AI Career & Skill Gap Recommender
 
 **Project description :**  
